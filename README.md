@@ -5,3 +5,12 @@
 
 # 1. 목표
 Spring Boot 프로젝트를 클론 코딩하며, 익숙하지 않은 Spring Boot를 연습하기 위한 용도로 작성되었습니다.
+
+# 2. 시스템 환경
+OpenJDK 11
+Framework - Spring 2.4.1
+ * JPA
+ * Spring Security
+ * Lombok
+Build Tool - Maven
+Database - Mysql 8.0.22
